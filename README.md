@@ -25,4 +25,4 @@ Mnist, Fashion MNist, Cifar 10, and Cifar 100.
 | 0.3229  | 0.8929   |0.6771   |
 
 # **matrix**
-![screen shot]()
+![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.3.CustomDatasetCNN/5animal/output.png?raw=true)
