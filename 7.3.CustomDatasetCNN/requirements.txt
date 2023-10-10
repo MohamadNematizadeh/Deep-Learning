@@ -1,0 +1,6 @@
+csv
+tensorflow 
+pandas
+matplotlib.pyplot
+sklearn
+deepface
