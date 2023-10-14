@@ -1,15 +1,18 @@
-# Deep-Learning
-## MLP vs CNN:
+# CustomDatasetCNN
+# 5 Animal :
 
-Mnist and Fashion  and MNist and  Cfar10  and Cfar100.
+    Elephant 🐘
+    dog 🐶
+    cat 🐈 
+    Giraffe 🦒
+    Pandas 🐼
 
-| Benchmark Name | MLP (Machine Learning)| CNN + MLP (Deep Learning) |
+| Train Loss | Train Acc| Val Acc |
 | :---         |     :---:      |          :---: |
-| MNist  | 0.9719   | 0.9872   |
-|Fashion MNist     | 0.8392     | 0.9133   |
-|Cfar10     |   0.4360  |   0.8604  |
-|Cfar100     | 0.2639    | 0.6235   |
+| 0.3229  | 0.8929   |0.6771   |
 
+# **matrix**
+![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.3.CustomDatasetCNN/5animal/output.png?raw=true)
 -------
 
 # 17 Flowers :
