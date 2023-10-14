@@ -3,4 +3,4 @@ tensorflow
 pandas
 matplotlib.pyplot
 sklearn
-deepface
+telebot
