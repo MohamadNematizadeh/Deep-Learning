@@ -13,7 +13,7 @@ def send_welcome(message):
                             "/photo- حدست گل ")
     
 @mybot.message_handler(commands=['photo'])
-def send_game(message): 
+def send_photo(message): 
     msg = mybot.send_message(message.chat.id,"عکس یه گل بفرست(به غیر از خودت) تا اسمش رو حدس بزنم 🌹")
     mybot.register_next_step_handler(msg,photo)
 	
