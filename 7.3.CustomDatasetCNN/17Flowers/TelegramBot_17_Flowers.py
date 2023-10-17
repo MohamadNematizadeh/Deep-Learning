@@ -4,7 +4,7 @@ import tensorflow as tf
 import cv2
 import numpy as np
 
-mybot = telebot.TeleBot(token="6361121996:AAG_ytC-Y1RlFRuBBDFPzYa6aMP3CH5C3e4")
+mybot = telebot.TeleBot(token="token")
 model = tf.keras.models.load_model('weights/17_Flowers.h5')
 flowers_name = ['bluebell', 'buttercup', 'coltsfoot', 'cowslip', 'crocus', 'daffodil','daisy', 'dandelion', 'fritillary', 'iris', 'lilyvalley', 'pansy', 'snowdrop', 'sunflower', 'tigerlily', 'tulip', 'windflower']
 @mybot.message_handler(commands=['start'])
