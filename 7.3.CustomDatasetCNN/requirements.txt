@@ -1,6 +1,0 @@
-csv
-tensorflow 
-pandas
-matplotlib.pyplot
-sklearn
-telebot
