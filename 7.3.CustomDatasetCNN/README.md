@@ -38,4 +38,4 @@
 
 - Matrix
 
-   ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.3.CustomDatasetCNN/17Flowers/output.png?raw=true)
+   ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.3.CustomDatasetCNN/17Flowers/output2.png?raw=true)
