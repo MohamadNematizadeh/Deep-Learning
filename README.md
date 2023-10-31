@@ -1,4 +1,13 @@
 # Deep-Learning
+
+## Face Recognition
+Face Recognition using DeepFace library
+loss and accuracy test.
+  |loss | accuracy |
+  | --------- |:---:|
+  |0.0090 | 1.0000 |
+-------------------------------------------------
+ 
 ## MLP vs CNN:
 
 Mnist, Fashion MNist, Cifar 10, and Cifar 100.
@@ -12,7 +21,8 @@ Mnist, Fashion MNist, Cifar 10, and Cifar 100.
 
 -------------------------------------------------
 # CustomDatasetCNN
-# 5Animals_Classification
+# Transfer Learning
+# 5Animals_V3
 - Classification between 4 animals:
    Elephant 🐘
     dog 🐶
@@ -24,31 +34,70 @@ Mnist, Fashion MNist, Cifar 10, and Cifar 100.
 
 - Download the  dataset from link below:
   - [dataset](https://drive.google.com/drive/folders/1wBUlG3P8YBiB17aUo3O6byzO0DJLcsaS)
-
-
--  | Train Loss | Train Acc| Val Acc |
-   | :---         |     :---:      |          :---: |
-   | 0.3229  | 0.8929   |0.6771   |
--   Matrix
-   ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.3.CustomDatasetCNN/5animal/output.png?raw=true)
-
+- | Dataset |  Loss	| Accuracy 
+    | :---   |   :---:  | :---:   |
+    |VGG16   |  0.4215 |  0.8988 |
+    |Train   |  0.3229   | 0.9453  |
+    |Val     |  1.2178   | 0.6771  |
+    |test    |  1.3104 |  0.8929  |
 -------
-
-
-# 17 Flowers Classification🌹🪴
+# 17 Flowers V3🌹🪴
 - A deep learning model using VGG16 convolution neural net is trained to classify flowers 🌹🪴
- - <a href='https://t.me/Flowers_Deep_Learning_bot'>bot telegram</a>
+
 - Download the  dataset from link below:
   - [dataset](https://drive.google.com/drive/folders/15Wr7hNPvFhnpkYdTpypGFmq6mcQ6r-Sx)
-  
-
 
 - | Dataset |  Loss	| Accuracy 
-    | :---         |     :---:      |          :---: |
+    | :---         |     :---:   |          :---: |
+    |VGG16   |  0.4709 |  0.9188 |
     |Train  | 0.1701  | 0.9453  |
     |Val     | 1.3862    | 0.6497   |
     |test     |   1.7977 |  0.6265  |
 
-- Matrix
+--------------
+# 7-7 faces  v2🧔🏻‍♂️👩🏽‍🦱👵🏻👨🏿‍🦲
+- A deep learning model using VGG16 convolution neural net is trained to classify 15 faces🧔🏻‍♂️👩🏽‍🦱👵🏻👨🏿‍🦲
 
-   ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.3.CustomDatasetCNN/17Flowers/output.png?raw=true)
+- Download the  dataset from link below:
+  - [dataset](https://drive.google.com/drive/folders/1WGSotRtFPYGuxPEGkWWRsBPlVXFSvl7p?usp=sharing)
+  
+- | Dataset |  Loss	| Accuracy 
+    | :---         |     :---:   |          :---: |
+    |VGG16   |  0.5582  |  0.8881 |
+--------------
+# Akhund and Human 👳🏻‍♂️👨🏻
+- A deep learning model using MobileNetV2 Convolutional Neural Network is trained to recognize the human body 👳🏻‍♂️👨🏻
+- [Telegram Bot ](https://t.me/Python_and_Ai_bot)
+- [wandb](https://wandb.ai/mohamad-nematizadehhh/Akhund%20and%20Human)
+- Download the  dataset from link below:
+  - [dataset](https://drive.google.com/drive/folders/1awNU2wbo6owr3Pfyy8KIy70T5sdi41VD?usp=sharing)
+  - 
+- | Dataset |  Loss	| Accuracy 
+    | :---         |     :---:   |          :---: |
+    |Train  | 0.0093  | 0.9973 |
+    |Val     | 0.2555    | 0.9457  |
+
+--------------
+# 7.5.CNN Regression
+# Age Prediction
+- Automatic estimation of human age based on the appearance of human face 👶🏻👵🏻,
+- Using ResNet50V2 neural network
+
+- Download the  dataset from link below:
+  - [dataset](https://www.kaggle.com/jangedoo/utkface-new)
+
+- [wandb](https://wandb.ai/mohamad-nematizadehhh/Age_Prediction)
+
+- | Dataset |  Loss	     | 
+    | :---   |   :---:   | 
+    |Train   |  9.2271   | 
+    |Val     |  8.7625   |
+
+-------
+
+
+# Home Prices Prediction 🏠💰
+......
+
+--------------
+
