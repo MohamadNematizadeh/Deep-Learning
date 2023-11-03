@@ -1,4 +1,4 @@
-# Deep-Learning
+# Deep-Learning 🍓
 
 ## Face Recognition
 Face Recognition using DeepFace library
