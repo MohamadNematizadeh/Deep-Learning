@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 |          Image name        |  predicted_labels   | confidence score |  
 | :----------------------:   | :-----------: | :--------: |
-| ![screen shot]() | 67e7737 |0.9347|
-| ![screen shot]()    | 97i48912|0.9987|
-| ![screen shot]()    | 57c82374|0.9955|
-| ![screen shot]()    | 29٧٢٨٤٣|0.8017|
+| ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/00192.jpg?raw=true) | 67e7737 |0.9347|
+| ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/01656.jpg?raw=true)    | 97i48912|0.9987|
+| ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/lp3.jpg?raw=true)    | 57c82374|0.9955|
+| ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/lp5.jpg?raw=true)    | 73v96442  |0.8017|
