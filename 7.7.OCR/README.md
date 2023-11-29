@@ -31,7 +31,7 @@ pip install -r requirements.txt
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image7.jpg?raw=true)    |56l53236|0.9020|
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image9.jpg?raw=true) |11l76812   |0.9954|
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image10.jpg?raw=true) |58l94974|0.9906|
-| ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image11.jpg.jpg?raw=true) |57v65574  |0.5687|
+| ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image11.jpg?raw=true) |57v65574  |0.5687|
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image12.jpg?raw=true) | 82n43836 |0.9990|
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image13.jpg?raw=true)    | 39v71212 |0.9977|
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image14.jpg?raw=true) |38l35912 |0.9913|
