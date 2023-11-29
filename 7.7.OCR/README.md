@@ -15,7 +15,7 @@
     | :---   |   :---:   | 
     | 73.918 | 73.998   | 
 
-- Download the  dataset from link below
+- Download the  dataset ,weights  from link below
  [dataset](https://drive.google.com/drive/folders/1hTuK4nj27cyAGaRL3ZqOqbO8gU_9IJCK)
 ### How to install
 ```
