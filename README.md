@@ -111,7 +111,7 @@ Mnist, Fashion MNist, Cifar 10, and Cifar 100.
     | :---   |   :---:   | 
     | 73.918 | 73.998   | 
 
-- Download the  dataset from link below
+- Download the  dataset ,weights  from link below
  [dataset](https://drive.google.com/drive/folders/1hTuK4nj27cyAGaRL3ZqOqbO8gU_9IJCK)
 ### How to install
 ```
@@ -124,8 +124,6 @@ pip install -r requirements.txt
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/01656.jpg?raw=true)    | 97i48912|0.9987|
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/lp3.jpg?raw=true)    | 57c82374|0.9955|
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/lp5.jpg?raw=true)    | 73v96442  |0.8017|
-
-......
 
 --------------
 
