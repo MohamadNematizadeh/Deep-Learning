@@ -13,7 +13,7 @@
 - Vehicle license plate extraction using DTRB
     | Train | Test  | 
     | :---   |   :---:   | 
-    | 73.918 | 73.998   | 
+    | 73.918 | 76.692   | 
 
 - Download the  dataset ,weights  from link below
  [dataset](https://drive.google.com/drive/folders/1hTuK4nj27cyAGaRL3ZqOqbO8gU_9IJCK)
