@@ -36,5 +36,5 @@ pip install -r requirements.txt
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image13.jpg?raw=true)    | 39v71212 |0.9977|
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image14.jpg?raw=true) |38l35912 |0.9913|
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image15.jpg?raw=true) | 92j28612 |0.9990|
-| ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image40.jpg.jpg?raw=true) | 82a21222  |0.4243|
+| ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/image40.jpg?raw=true) | 82a21222  |0.4243|
 
