@@ -1,5 +1,4 @@
 # Audio Classification  🗣
-# License Plate PipeLine
 Identify sounds in audio clips using Tensorflow and pydub 🗣
 
 # How to Install
