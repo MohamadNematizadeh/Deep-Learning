@@ -6,5 +6,5 @@ Run this command:
 ```
 pip install -r requirements.txt
 ```
-Download [dataset](https://drive.google.com/drive/folders/1z_A1cBmEdzm8Y_2VEKCZege1hWrHyC15?usp=drive_link)
+Download [dataset](https://drive.google.com/drive/folders/1KbjWcCG5ppVvt5w2b0kkYC6tpxBCzXH3)
 ## !!! and put them to dataset folder.
