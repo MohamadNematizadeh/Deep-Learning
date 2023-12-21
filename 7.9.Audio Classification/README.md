@@ -6,7 +6,7 @@ Run this command:
 ```
 pip install -r requirements.txt
 ```
-Download [dataset](https://drive.google.com/drive/folders/1KbjWcCG5ppVvt5w2b0kkYC6tpxBCzXH3)
+Download [dataset](https://drive.google.com/drive/folders/1F29a-Y00TQ6gsm63rQGqaO9ahHC7KNDV?usp=sharing)
 
 Extract it in the `./raw_audios` directory.
 
