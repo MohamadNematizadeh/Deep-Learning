@@ -1,5 +1,5 @@
 # Audio Classification  🗣
-Audio classification is a fundamental problem in the field of audio processing. It is a challenging problem because there is no clear definition of what is a good representation of audio data. In this project, we will use a custom dataset to classify audio files into 29 classes.Identify sounds in audio clips using Tensorflow and pydub 🗣
+Audio classification is a fundamental problem in the field of audio processing. It is a challenging problem because there is no clear definition of what is a good representation of audio data. In this project, we will use a custom dataset to classify audio files into 17 classes.Identify sounds in audio clips using Tensorflow and pydub 🗣
 
 # How to Install
 Run this command:
