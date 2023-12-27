@@ -15,11 +15,12 @@ class Audio_Classifier(tf.keras.Model):
     def __init__(self):
         labels = ['Parsa','Azra Khedadmand','Davood Fazeli','Javad Nematollahi','Parisa Baqerzade','kiana jhnshid','Maryam Saeedi','Matin Ghorbani','Shima Bazzazan','Mohammad','Nima','Omid nomiri','Khadijeh Valipour','Abdollah Ramezani','Rezaie','Sajedeh Gharabadiyan','Mohammad_prf']
 
-    def train(model):
+    def train(model,train_data,validation_data):
         model.compile(
             optimizer=tf.keras.optimizers.Adam(learning_rate=0.0001),
             loss='categorical_crossentropy',
             metrics=['accuracy'])
+        model.fit(train_data, validation_data=validation_data, epochs=30)
         
     def predict(train_data,validation_data,model):  
         model.fit(train_data, validation_data=validation_data, epochs=30)
