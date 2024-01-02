@@ -13,7 +13,7 @@ opt = parser.parse_args()
 app = FaceAnalysis(name="buffalo_s",providers=['CPUExecutionProvider'])
 app.prepare(ctx_id=0, det_size=(640, 640))
 
-# Catch yore imags
+# Catch Your imags
 imag_1 = cv2.imread(opt.image1)
 imag_1 = cv2.cvtColor(imag_1,cv2.COLOR_BGR2RGB)
 imag_2 = cv2.imread(opt.image2)
