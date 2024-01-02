@@ -21,9 +21,9 @@ imag_2 = cv2.cvtColor(imag_2,cv2.COLOR_BGR2RGB)
 
 # embeddings
 result_1 = app.get(imag_1)
-embedding_1 = result_1[0]["embedding"].shape
+embedding_1 = result_1[0]["embedding"]
 result_2 = app.get(imag_2)
-embedding_2 = result_2[0]["embedding"].shape
+embedding_2 = result_2[0]["embedding"]
 
 # Result
 if np.sqrt(np.sum((embedding_1 - embedding_2) **2)) < 25:
