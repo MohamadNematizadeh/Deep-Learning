@@ -26,7 +26,7 @@ result_2 = app.get(imag_2)
 embedding_2 = result_2[0]["embedding"].shape
 
 # Result
-if np.sqrt(np.sum((embedding_1 - embedding_2) **2))<25:
+if np.sqrt(np.sum((embedding_1 - embedding_2) **2)) < 25:
     print("Same Person ✅ ")
 else:
     print("Different Persons 📛")    
