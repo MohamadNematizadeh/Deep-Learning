@@ -126,4 +126,62 @@ pip install -r requirements.txt
 | ![screen shot](https://github.com/MohamadNematizadeh/Deep-Learning/blob/main/7.7.OCR/DTRB/test_imag/lp5.jpg?raw=true)    | 73v96442  |0.8017|
 
 --------------
+# Audio Classification  🗣
+Audio classification is a fundamental problem in the field of audio processing. It is a challenging problem because there is no clear definition of what is a good representation of audio data. In this project, we will use a custom dataset to classify audio files into 17 classes.Identify sounds in audio clips using Tensorflow and pydub 🗣
+
+# How to Install
+Run this command:
+```
+pip install -r requirements.txt
+```
+Download [dataset](https://drive.google.com/drive/folders/1F29a-Y00TQ6gsm63rQGqaO9ahHC7KNDV?usp=sharing)
+
+Extract it in the `./raw_audios` directory.
+
+Use `make_dataset.ipynb` notebook to convert the data into a dataset with format that can be used by the model.
+
+## Training
+
+Use `Train.ipynb` notebook to train the model.
+
+[**Bot Telegram**](t.me/Python_and_Ai_bot)
+--------------
+# Face Recognition 🧑
+In this face recognition project using InsightFace
+ And pytorch is built 🧑
+# How to run
+```
+pip install -r requirements.txt
+```
+## Inference:
+```
+python3 FaceـVerification.py --image1 {yore imag1} --image2 {yore imag2}
+```
+
+--------------
+# Natural Language Processing (NLP)
+##  Emoji Text Classification 📝
+
+A field of AI that enables machines to understand, generate, and interact with human language, revolutionizing content creation and chatbots. 📝
+
+
+
+| Feature Vector Dimensions | Train Loss| Train Accuracy | Test Loss| Test Accuracy | Inference Time |
+| :---                      |     :---: |       :---:    |    :---: |        :---:  |       :---:    |
+| 50d                       | 0.7624    | 0.7500         |   0.7805 | 0.7818        | 0.00148 s      |
+| 100d                      | 0.4389    | 0.8864         |   0.5553 | 0.8364        | 0.00188 s      |
+| 200d                      | 0.3595    | 0.9015         |   0.5148 | 0.8727        | 0.00105 s      |
+| 300d                      | 0.2285    | 0.9621         |   0.4619 | 0.8909        | 0.00102 s      |
+
+
+# How to install
+```
+pip install -r requirements.txt
+```
+
+Download [weights](https://drive.google.com/drive/folders/1g8_5k6kq7SvyJKh4PitG9Qw72BApYIU2?usp=drive_link) and [glov.6b](https://drive.google.com/drive/folders/1-DSGFjAl2GtOtzJwmZpoK2lbb15NQhsR?usp=drive_link)
+
+
+ran file main is  `main.ipynb`
+
 
