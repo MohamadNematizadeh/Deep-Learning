@@ -1,4 +1,5 @@
 # 🍓 Deep Learning 🍓
+<img src = "https://skillicons.dev/icons?i=html,css,bootstrap,tensorflow,python,javascript">
 
 ## Face Recognition
 Face Recognition using DeepFace library
